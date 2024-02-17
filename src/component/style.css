@@ -1,0 +1,28 @@
+.card {
+    margin: 16px;
+    border: 2px black solid;
+    width: 360px;
+    height: auto;
+}
+
+.rating4 {
+    border-color: green;
+}
+
+.rating3 {
+    border-color: yellow;
+}
+
+.card_image {
+    height: auto;
+    width: auto;
+}
+
+.card_details {
+    height: 80px;
+    font-size: 12px;
+
+    .item_description {
+        font-size: 8px;
+    }
+}
