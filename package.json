@@ -25,7 +25,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://aakash1812.github.io",
+  "homepage": "https://aakash1812.github.io/poker",
   "eslintConfig": {
     "extends": [
       "react-app",

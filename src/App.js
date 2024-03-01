@@ -2,7 +2,7 @@ import './App.css';
 import { useState } from 'react';
 import { Pokemon } from './component/Pokemon';
 
-const pokemon = ['bulbasaur', 'pikachu', 'ditto', 'bulbasaur']
+const pokemon = ['bulbasaur', 'pikachu', 'ditto']
 
 function App() {
   const [pollingInterval, setPollingInterval] = useState(0)
